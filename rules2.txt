@@ -1,0 +1,19 @@
+Rules:
+=========
+1. Players must must use one 'similar feature move' on either their 
+swap or slide move, not both.
+A 'similar feature move' consists of a swap or slide where the suits 
+or card values match. ie. Two Kings, or Two Spades.
+
+A swap or slide move involving;
+    -The [Ace of Spades] and the [Ace of Hearts] - would use a similar 
+feature because both cards share 'Ace'.
+    -The [Queen of Clubs] and the [Jack of Hearts] - would not use a 
+'similar feature move' because the card values and suits are different.
+
+2. In Expert mode, the game cannot end on a swap move, only a slide move.
+Even if the cards are perfectly sorted after a swap move, the game is 
+only completed if the cards are sorted after a slide move.
+
+3. Beginner mode allows for a more simple end game. The game is 
+allowed to end after a swap move.

@@ -1,0 +1,20 @@
+Description:
+============
+Swap and slide is a card sorting game, sort the suits from
+left to right: Hearts, Diamonds, Clubs and Spades. Sort the ranks from
+top to bottom: Ace, King, Queen and Jack.
+
+The aim is to sort the cards in as few moves as possible.
+
+Game Play:
+==========
+Cards are to be sorted by using two types of moves:
+    -Swap - pick a card and any other card, they swap places.
+    -Slide - pick one of the cards you just swapped and one of its 
+neighbours (above, below or beside, but not diagonally touching)
+
+Turns consist of one swap then one slide. Always in the same order. 
+
+Scoring:
+========
+Performing either a swap or slide move increases the score by 0.5.
